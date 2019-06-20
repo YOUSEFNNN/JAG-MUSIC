@@ -3,4 +3,5 @@ prefix=*p
 game=MUSIC
 stayinchannel=true
 songinstatus=false
-token=NTkxMjY4ODIzNjQzMDYyMjgy.XQuoeg.O1INNcSXzNpS0plp5pnPcctFAuQ
+token=NTkxMjk5NTQ3NDA2NTMyNjA4.XQuwyQ.5j_cX4qtLrGXpqtuL0pdI62_784
+
