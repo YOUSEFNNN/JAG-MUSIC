@@ -1,5 +1,5 @@
 owner=535872165254529024
-prefix=*P
+prefix=*p
 game=MUSIC
 stayinchannel=true
 songinstatus=false
