@@ -1,7 +1,6 @@
 owner=535872165254529024
-prefix=*p
-game=MUSIC
+prefix=*
+game=online | *play
 stayinchannel=true
 songinstatus=false
-token=NTkxMzAzMjk4NTQ4NzYwNjUz.XQu1nA.xncL3rPxm6u-yQ3tCa7Az6byXMM
-
+token=NTkxMzAzMjk4NTQ4NzYwNjUz.XQu4tA.Dn7-Df8ONUjes7DT77Hi5srSLA0
